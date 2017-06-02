@@ -7,5 +7,6 @@
 * 發音部分使用台灣教育部國語辭典公眾授權網 http://resources.publicense.moe.edu.tw 公開資料重新改編
 * 部分補充資料引用 http://ctext.org/zh、http://www.zdic.net 網站
 * 參與改編人員：蔡東霖、鄭雪琴、葉劍楓
-本資料採用 知識共享許可協議 3.0 發佈
-<https://www.xiaoxinzi.com/index.html> 
+***
+<br>本資料採用 知識共享許可協議 3.0 發佈
+<br><https://www.xiaoxinzi.com/index.html> 
